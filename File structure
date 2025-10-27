@@ -1,0 +1,20 @@
+CRYPTO CLICKER BATTLE - COMPLETE SETUP FILES
+
+
+```
+crypto-clicker-battle/
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── public/
+├── index.html
+├── package.json
+├── vite.config.js
+├── tailwind.config.js
+├── postcss.config.js
+├── .gitignore
+└── README.md
+```
+
+---
